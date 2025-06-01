@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['classes\\userlogin.py', 'classes\\game_player.py', 'classes\\player.py', 'app.py', 'datafile.py', 'subs\\apps_player.py', 'subs\\apps_gform.py', 'subs\\apps_subform.py', 'templates\\userlogin.html', 'subs\\apps_userlogin.py', 'templates\\base.html', 'templates\\gform.html', 'templates\\index.html', 'templates\\login.html', 'templates\\player.html', 'classes\\game.py', 'classes\\gclass.py', 'classes\\tournament.py', 'subs\\apps_plotly.py', 'templates\\plotly.html']
+
+[main]
+version = 0.2.0
+recent_files = []
+
